@@ -1,0 +1,9 @@
+\contentsline {section}{\numberline {1}数据处理}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}\small 按照表 7-7 列出测量钢杯含钢体积的数据表，并计算出相应的测量结果和不确定度。}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}\small 按照表 7-8 列出测量小钢球体积的数据表，并计算出相应的测量结果和不确定度。(注：\LaTeX 打横向表格空间不够，故此处打纵向表格)}{2}{subsection.1.2}%
+\contentsline {section}{\numberline {2}习题}{2}{section.2}%
+\contentsline {section}{\numberline {3}\small 系统误差和随机误差对于钢杯体积不确定度的贡献.}{6}{section.3}%
+\contentsline {subsection}{\numberline {3.1}\small 系统误差和随机误差对于小钢球体积不确定度的贡献.}{6}{subsection.3.1}%
+\contentsline {section}{\numberline {4}收获与感想}{6}{section.4}%
+\contentsline {subsection}{\numberline {4.1}有效数字的计算——数学方法和经验方法的异同}{6}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}关于解决有效数字计算的一些设想}{7}{subsection.4.2}%
